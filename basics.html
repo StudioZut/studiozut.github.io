@@ -25,38 +25,39 @@ function changeText(theID) {
 </script>
 
 <style>
-html {
-  font-family: 'Text Me One', helvetica, verdana, sans-serif;
-}
+  html {
+    font-family: 'Text Me One', helvetica, verdana, sans-serif;
+  }
 
-.stuff {
-  color: red;
-}
+  h2 { padding: 1em; }
 
-.my-column {
-  display: inline-block;
-  width: 42%;
-  padding: 1em;
-  vertical-align: top;
-}
-
-.js-stuff {
-  font-size: 150%;
-  color: blue;
-}
-
-@media screen and ( max-width:600px) {
   .stuff {
-    color: green;
+    color: red;
   }
+
   .my-column {
-    display: block;
-    width: 94%;
+    display: inline-block;
+    width: 42%;
+    padding: 1em;
+    vertical-align: top;
   }
-}
+
+  .js-stuff {
+    font-size: 150%;
+    color: blue;
+  }
+
+  @media screen and ( max-width:600px) {
+    .stuff {
+      color: green;
+    }
+    .my-column {
+      display: block;
+      width: 94%;
+    }
+  }
 </style>
 </head>
-
 <body>
   
 <h2>Web Mechanics 101: demystifying the HTML, CSS and JS of a “web page” and how it gets to your browser in the first place</h2>
