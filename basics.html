@@ -1,0 +1,59 @@
+<script>
+$("#addClass").click(function() {
+  $('#first-div').addClass('js-stuff');
+});
+
+$("#toggleClass").click(function() {
+  $('#first-div').toggleClass('js-stuff');
+});
+// simple js
+function changeText(theID) {
+  document.getElementById(theID).innerHTML = 'SOME OTHER TEXT TO REPLACE THE EXISTING TEXT';
+}
+</script>
+
+<style>
+html {
+  font-family: 'Text Me One', helvetica, verdana, sans-serif;
+}
+
+.stuff {
+  color: red;
+}
+
+.my-column {
+  display: inline-block;
+  width: 42%;
+  padding: 1em;
+  vertical-align: top;
+}
+
+.js-stuff {
+  font-size: 150%;
+  color: blue;
+}
+
+@media screen and ( max-width:600px) {
+  .stuff {
+    color: green;
+  }
+  .my-column {
+    display: block;
+    width: 94%;
+  }
+}
+</style>
+
+<div id="first-div" class="my-column">
+  <p>This is some text, in a paragraph element. <span id="the-text">We have more words here, in their own span element (nested inside the paragraph element).</span></p>
+  <p>Thanks to <a href="http://www.fillerati.com/" target="_blank">fillerati</a> we can have lots of words for when the client refuses to give us any:</p>
+  <blockquote>The Mouse did not notice this question, but hurriedly went on, '"—found it advisable to go with Edgar Atheling to meet William and offer him the crown. William's conduct at first was moderate. But the insolence of his Normans—" How are you getting on
+    now, my dear?' it continued, turning to Alice as it spoke. (Lewis Carroll)</blockquote>
+</div>
+<div class="my-column stuff">
+  <p>And more text here! It's all over the place. So many words.</p>
+  <p>My metal and ornaments were also renewed in the style of a Zodangan gentleman, attached to the house of Ptor, which was the family name of my benefactors. (Edgar Rice Burroughs)</p>
+  <p><button id="addClass">Add a class name to the first p element</button></p>
+  <p><button id="toggleClass">Better yet, toggle it! (add OR remove a class name to the first p element</button></p>
+  <p><button id="basicJS" onclick="changeText('the-text')">Some basic js ftw</button></p>
+  <div>
