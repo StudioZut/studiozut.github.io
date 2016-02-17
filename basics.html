@@ -3,50 +3,44 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>studiozut on github</title>
-  <link href="https://fonts.googleapis.com/css?family=Nova+Square" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script>
-//jQuery
-$( document ).ready(function() {
-    console.log( "ready!" );
+  <link href="http://fonts.googleapis.com/css?family=Nova+Square" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script>
+    //jQuery
+    $( document ).ready(function() {
+      console.log( "ready!" );
+      
+      $("#addClass").click(function() {
+        $('#first-div').addClass('js-stuff');
+      });
 
-  $("#addClass").click(function() {
-    $('#first-div').addClass('js-stuff');
+      $("#toggleClass").click(function() {
+        $('#first-div').toggleClass('js-stuff');
+      });
   });
-
-  $("#toggleClass").click(function() {
-    $('#first-div').toggleClass('js-stuff');
-  });
-});
-// simple js
-function changeText(theID) {
-  document.getElementById(theID).innerHTML = 'SOME OTHER TEXT TO REPLACE THE EXISTING TEXT';
-}
+  // simple js
+  function changeText(theID) {
+    document.getElementById(theID).innerHTML = 'SOME OTHER TEXT TO REPLACE THE EXISTING TEXT';
+  }
 </script>
-
 <style>
   html {
     font-family: 'Text Me One', helvetica, verdana, sans-serif;
   }
-
   h2 { padding: 1em 1em 0; }
-
   .stuff {
     color: red;
   }
-
   .my-column {
     display: inline-block;
     width: 42%;
     padding: 1em;
     vertical-align: top;
   }
-
   .js-stuff {
     font-size: 150%;
     color: blue;
   }
-
   @media screen and ( max-width:600px) {
     .stuff {
       color: green;
