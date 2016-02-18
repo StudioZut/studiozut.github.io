@@ -46,6 +46,10 @@
   .stuff {
     color: red;
   }
+  #container { 
+    margin: 0 auto;
+    max-width:980px; 
+  }
   .my-column {
     display: inline-block;
     width: 46%;
@@ -62,7 +66,7 @@
     width: 431px;
   }
   
-  @media screen and ) max-width:890px ) {
+  @media screen and ( max-width:890px ) {
     .my-column {
       width: 44%;  
     }
@@ -80,24 +84,26 @@
 </style>
 </head>
 <body>
-  <h2>Web Mechanics 101: demystifying the HTML, CSS and JS of a 'web page' and how it gets to your browser in the first place</h2>
-  <div class="centered">
-    <img src="http://www.databasejournal.com/img/phpmysql-ch4-fig1.gif">
+  <div id="container">
+    <h2>Web Mechanics 101: demystifying the HTML, CSS and JS of a 'web page' and how it gets to your browser in the first place</h2>
+    <div class="centered">
+      <img src="http://www.databasejournal.com/img/phpmysql-ch4-fig1.gif">
+    </div>
+    <div id="first-div" class="my-column">
+      <p>This is some text, in a paragraph ("p") element. <span id="the-text">There are more words here, in their own "span" element (nested inside the paragraph element) so that we can tweak them independly of the text around it.</span></p>
+      <p>Thanks to <a href="http://www.fillerati.com/" target="_blank">fillerati</a> we can have lots of words for when the client refuses to give us any:</p>
+      <blockquote>The Mouse did not notice this question, but hurriedly went on, '"—found it advisable to go with Edgar Atheling to meet William and offer him the crown. William's conduct at first was moderate. But the insolence of his Normans—" How are you getting on now, my dear?' it continued, turning to Alice as it spoke. (Lewis Carroll)</blockquote>
+      <p>The text above is in a "blockquote" element. The browser gives it rudimentary styling by default. I added a little more.</p>
+    </div>
+    <div class="my-column stuffx">
+      <p>And more text here! It's all over the place. So many words.</p>
+      <blockquote>My metal and ornaments were also renewed in the style of a Zodangan gentleman, attached to the house of Ptor, which was the family name of my benefactors. (Edgar Rice Burroughs)</blockquote>
+      <p>Below this are some buttons. They are inside a "button" element, and the browser applies its own basic styling to them by default.</p>
+      <p><button id="addClass">Add a class name to the first p element</button></p>
+      <p><button id="toggleClass">Better yet, toggle it! (add OR remove a class name to the first p element</button></p>
+      <p><button id="basicJS" onclick="changeText('the-text')">Some basic js ftw</button></p>
+      <p><a href="http://codepen.io/studiozut/pen/xZMdJg"><button>Try it out in codepen</button></a></p>
+    <div>
   </div>
-  <div id="first-div" class="my-column">
-    <p>This is some text, in a paragraph ("p") element. <span id="the-text">There are more words here, in their own "span" element (nested inside the paragraph element) so that we can tweak them independly of the text around it.</span></p>
-    <p>Thanks to <a href="http://www.fillerati.com/" target="_blank">fillerati</a> we can have lots of words for when the client refuses to give us any:</p>
-    <blockquote>The Mouse did not notice this question, but hurriedly went on, '"—found it advisable to go with Edgar Atheling to meet William and offer him the crown. William's conduct at first was moderate. But the insolence of his Normans—" How are you getting on now, my dear?' it continued, turning to Alice as it spoke. (Lewis Carroll)</blockquote>
-    <p>The text above is in a "blockquote" element. The browser gives it rudimentary styling by default. I added a little more.</p>
-  </div>
-  <div class="my-column stuffx">
-    <p>And more text here! It's all over the place. So many words.</p>
-    <blockquote>My metal and ornaments were also renewed in the style of a Zodangan gentleman, attached to the house of Ptor, which was the family name of my benefactors. (Edgar Rice Burroughs)</blockquote>
-    <p>Below this are some buttons. They are inside a "button" element, and the browser applies its own basic styling to them by default.</p>
-    <p><button id="addClass">Add a class name to the first p element</button></p>
-    <p><button id="toggleClass">Better yet, toggle it! (add OR remove a class name to the first p element</button></p>
-    <p><button id="basicJS" onclick="changeText('the-text')">Some basic js ftw</button></p>
-    <p><a href="http://codepen.io/studiozut/pen/xZMdJg"><button>Try it out in codepen</button></a></p>
-  <div>
 </body>
 </html>
