@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!-- this tells the browser to respect css media queiries used for responsive design --> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- this is the icon that appears in the browser tab and bookmarking tools -->
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+  <!-- this is the page title -->
   <title>studiozut on github</title>
+  <!-- this tells the page where to find the associated stylesheets (css) -->
+  <link href="css/my-awesome-stylesheet.css" rel="stylesheet" type="text/css">
   <link href="//fonts.googleapis.com/css?family=Text+Me+One" rel="stylesheet" type="text/css">
   <link href="//fonts.googleapis.com/css?family=Nova+Square" rel="stylesheet" type="text/css">
+  <!-- this tell the browser where to find the associated javascript files or libraries -->
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script type="text/javascript" src="js/my-rad-js-stuff.js"></script>
+  <!-- this is embedded js, an alternate way to include short chunks of js -->
   <script>
     //jQuery
     $( document ).ready(function() {
@@ -24,6 +33,7 @@
     document.getElementById(theID).innerHTML = 'SOME OTHER TEXT TO REPLACE THE EXISTING TEXT';
   }
 </script>
+<!-- this is embedded css, an alternate way to include short chunks of css -->
 <style>
   html {
     font-family: helvetica, verdana, sans-serif;
@@ -64,26 +74,23 @@
 </style>
 </head>
 <body>
-  
-<h2>Web Mechanics 101: demystifying the HTML, CSS and JS of a 'web page' and how it gets to your browser in the first place</h2>
-
-<div class="centered">
-  <img src="http://www.databasejournal.com/img/phpmysql-ch4-fig1.gif">
-</div>
-
-<div id="first-div" class="my-column">
-  <p>This is some text, in a paragraph element. <span id="the-text">We have more words here, in their own span element (nested inside the paragraph element).</span></p>
-  <p>Thanks to <a href="http://www.fillerati.com/" target="_blank">fillerati</a> we can have lots of words for when the client refuses to give us any:</p>
-  <blockquote>The Mouse did not notice this question, but hurriedly went on, '"—found it advisable to go with Edgar Atheling to meet William and offer him the crown. William's conduct at first was moderate. But the insolence of his Normans—" How are you getting on
-    now, my dear?' it continued, turning to Alice as it spoke. (Lewis Carroll)</blockquote>
-</div>
-<div class="my-column stuffx">
-  <p>And more text here! It's all over the place. So many words.</p>
-  <p>My metal and ornaments were also renewed in the style of a Zodangan gentleman, attached to the house of Ptor, which was the family name of my benefactors. (Edgar Rice Burroughs)</p>
-  <p><button id="addClass">Add a class name to the first p element</button></p>
-  <p><button id="toggleClass">Better yet, toggle it! (add OR remove a class name to the first p element</button></p>
-  <p><button id="basicJS" onclick="changeText('the-text')">Some basic js ftw</button></p>
-  <p><a href="http://codepen.io/studiozut/pen/xZMdJg"><button>Try it in Codepen</button></a></p>
+  <h2>Web Mechanics 101: demystifying the HTML, CSS and JS of a 'web page' and how it gets to your browser in the first place</h2>
+  <div class="centered">
+    <img src="http://www.databasejournal.com/img/phpmysql-ch4-fig1.gif">
+  </div>
+  <div id="first-div" class="my-column">
+    <p>This is some text, in a paragraph ("p") element. <span id="the-text">There are more words here, in their own "span" element (nested inside the paragraph element) so that we can tweak them independly of the text around it.</span></p>
+    <p>Thanks to <a href="http://www.fillerati.com/" target="_blank">fillerati</a> we can have lots of words for when the client refuses to give us any:</p>
+    <blockquote>The Mouse did not notice this question, but hurriedly went on, '"—found it advisable to go with Edgar Atheling to meet William and offer him the crown. William's conduct at first was moderate. But the insolence of his Normans—" How are you getting on now, my dear?' it continued, turning to Alice as it spoke. (Lewis Carroll)</blockquote>
+    <p>The text above is in a "blockquote" element. The browser gives it rudimentary styling by default. I added a little more.</p>
+  </div>
+  <div class="my-column stuffx">
+    <p>And more text here! It's all over the place. So many words.</p>
+    <blockquote>My metal and ornaments were also renewed in the style of a Zodangan gentleman, attached to the house of Ptor, which was the family name of my benefactors. (Edgar Rice Burroughs)</blockquote>
+    <p>Below this are some buttons. They are inside a "button" element, and the browser applies its own basic styling to them by default.</p>
+    <p><button id="addClass">Add a class name to the first p element</button></p>
+    <p><button id="toggleClass">Better yet, toggle it! (add OR remove a class name to the first p element</button></p>
+    <p><button id="basicJS" onclick="changeText('the-text')">Some basic js ftw</button></p>
   <div>
 </body>
 </html>
