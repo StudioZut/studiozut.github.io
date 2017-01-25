@@ -1,3 +1,5 @@
+<p style="font-syle: italic;">(originally posted on the Scholarly Technology Group blog at GW Libraries: <a href="">http://library.gwu.edu/scholarly-technology-group/posts/tracking-web-traffic-across-gw-libraries</a>)>/p>
+
 GW Libraries has nearly 20 web properties, all of which need to be tracked. We're using Google Analytics, and we've configured it with an "aggregate" account to help us track user traffic across our sites as well as within them. We've recently moved to Google's new "Universal Analytics" (analytics.js), which required some changes to our setup (see my post from last year).
 
 <h4>Aggregate Tracking</h4>
@@ -31,11 +33,15 @@ One of the behaviors we're tracking is our primary navigation menu: we set an ev
 
 The "event tracking" code is a short piece of javascript:
 
+<pre>
 ga(‘send’, ‘event’, ‘primary-navigation’, ‘/primary-nav/gelman-library/research-hover’, {'nonInteraction': 1});
+</pre>
 
 When added to the anchor tag looks like this:
 
+<pre>
 <a onMouseOver="ga(‘send’, ‘event’, ‘primary-navigation’, ‘/primary-nav/gelman-library/research-hover’, {'nonInteraction': 1});">Research</a>
+</pre>
 
 The 'hover' behavior is triggered by the onMouseOver event (vs. onClick). The last parameter {'nonInteraction': 1} sets it as a 'non-interaction' event.
 
