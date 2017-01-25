@@ -6,7 +6,9 @@ We use a ‘hover’ style menu that expands when you hover over the categories,
 
 More importantly it wasn’t ‘keyboard accessible’: it required a mouse/trackpad or touchscreen to operate, leaving users who rely on keyboard navigation in the dark.
 
-screenshot: GW Libraries in wide view
+<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/screenshot-gw-libraries-8-6-15-720px.png?raw=true" alt="screenshot of the GW Libraries site in wide view (desktop)" />
+
+screenshot: GW Libraries in wide view (desktop)
 
 <h4>The Accessible Mega Menu</h4>
 
@@ -18,7 +20,7 @@ But it's not responsive, and we had to customize the css and add some javascript
 
 <h4>Designing for Mobile</h4>
 
-screenshot: GW Libraries in narrow view
+<img style="float: right;" scr="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/screenshot-gw-libraries-8-6-15-720px.png?raw=true" alt="screenshot: GW Libraries site in narrow view (handheld)" />
 
 Our menu collapses into buttons on the smallest screens (like phones) and each button becomes a link to the main categories. The new javascript-based code from Adobe dynamically inserts css classes, which we can override in our style sheet as needed (using media queries to target smaller screens).
 
