@@ -27,13 +27,15 @@ Our menu collapses into buttons on the smallest screens (like phones) and each b
 But not all touch devices are the same. Apple devices running iOS treat hover behavior differently: when you tap something that has a hover behavior, it toggles that behavior, and most of the time ignores any other behaviors (like links). So when our menu transformed to buttons in handheld devices, you could tap the button a thousand times and nothing would happen on an iPhone. For iOS to let you follow the link we had to remove any "child items" in the menu structure: when our menu changes to buttons we're actually just hiding the rest of the structure with css. For iOS devices we're using javascript to rewrite the output and actually remove the hidden structure.
 
 Checking for iOS devices with jQuery:
+<pre>
 if ($(window).width() <= 640 && navigator.userAgent.match(/(iPod|iPhone|iPad)/))
-
+</pre>
 This non-standard hover behavior helped us improve our design for all touch devices. In our fullscreen menu we now check for touch (using modernizr: http://modernizr.com) and add a main category link in each of our sub-menus when touch is detected.
 
 Checking for Touchscreens with CSS (and Modernizr):
+<pre>
 html.touch .touch-show-nav {display: block;}
-
+</pre>
 <h3>Testing for Accessibility</h3>
 
 We now run regular audits on our site designs using Google’s Accessibility Developer Tools (a free extension for Chrome: https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb). A lot of results have to be manually checked -- machine audits can only guess the context of potential issues -- but this gives us a baseline to help keep our sites accessible.

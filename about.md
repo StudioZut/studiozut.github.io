@@ -12,7 +12,7 @@ permalink: /about/
 
 So I needed a web presence, my own little corner of the interwebs for my professional info, posts and general identity as a web developer. My other sites are about other things (like gaming! <a href="https://telrhin.com">telrhin.com</a>). 
 
-I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a professional presence.
+I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a professional presence. I help run a workshop on that!
 
 <h3>Web Development</h3>
 
@@ -22,7 +22,7 @@ I work in PHP, HTML, CSS, JS/jQuery, SQL, Ruby on Rails and the occasional Pytho
 
 I have a sandbox module on Drupal.org https://www.drupal.org/sandbox/studiozut/2303677 and have contributed to Google's AMP HTML project https://github.com/ampproject/amphtml and the Sufia repository project https://github.com/projecthydra/sufia.
 
-  <div style="width: 500px; margin: 0 auto 0;">
+  <div style="width: 500px; margin: 1em auto 1em;;">
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So yeah, my fav commit message from this project so far <a href="https://twitter.com/hashtag/webdev?src=hash">#webdev</a> <a href="https://t.co/dZ6WGkvREl">pic.twitter.com/dZ6WGkvREl</a></p>&mdash; Christian Aldridge (@studiozut) <a href="https://twitter.com/studiozut/status/819954114754936832">January 13, 2017</a></blockquote>
   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
