@@ -1,4 +1,4 @@
-(originally posted on the Scholarly Technology Group blog http://library.gwu.edu/scholarly-technology-group/posts/making-our-menu-accessible)
+<p style="font-style: italic;">(originally posted on the Scholarly Technology Group blog at GW Libraries: <a href="http://library.gwu.edu/scholarly-technology-group/posts/making-our-menu-accessible">http://library.gwu.edu/scholarly-technology-group/posts/making-our-menu-accessible</a>)</p>
 
 One of the remaining challenges to accessibility in the GW LIbraries website (library.gwu.edu) was its main menu.
 
@@ -8,7 +8,7 @@ More importantly it wasn’t ‘keyboard accessible’: it required a mouse/trac
 
 screenshot: GW Libraries in wide view
 
-The Accessible Mega Menu
+<h4>The Accessible Mega Menu</h4>
 
 Our solution was to rebuild the menu with Adobe’s Accessible Mega Menu jQuery library: http://adobe-accessibility.github.io/Accessible-Mega-Menu/
 
@@ -16,7 +16,7 @@ It offered the simplest and most straightforward approach to keyboard and screen
 
 But it's not responsive, and we had to customize the css and add some javascript to adjust it to our “mobile” view.
 
-Designing for Mobile
+<h4>Designing for Mobile</h4>
 
 screenshot: GW Libraries in narrow view
 
@@ -32,10 +32,10 @@ This non-standard hover behavior helped us improve our design for all touch devi
 Checking for Touchscreens with CSS (and Modernizr):
 html.touch .touch-show-nav {display: block;}
 
-Testing for Accessibility
+<h4>Testing for Accessibility</h4>
 
 We now run regular audits on our site designs using Google’s Accessibility Developer Tools (a free extension for Chrome: https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb). A lot of results have to be manually checked -- machine audits can only guess the context of potential issues -- but this gives us a baseline to help keep our sites accessible.
 
-Adding an Accessibility Link
+<h4>Adding an Accessibility Link</h4>
 
 Lastly, we created a simple page on the main website (https://library.gwu.edu/accessibility) with a statement about our accessibility standards. We added a link to it in the footer, which we’ll be adding gradually to all of our web tools. This page will help our community know where we stand on accessibility, our limits (such as third party vendor tools) and who to contact if they need assistance.
