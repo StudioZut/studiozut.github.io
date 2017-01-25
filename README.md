@@ -1,4 +1,4 @@
 studiozut.github.io
 ===================
 
-Github pages repo
+Repo for my github pages. Using Jekyll (jekyllrb.com) to generate content and design.
