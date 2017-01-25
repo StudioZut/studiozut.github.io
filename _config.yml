@@ -22,7 +22,7 @@ url: "http://studiozut.github.io" # the base hostname & protocol for your site
 twitter_username: studiozut
 github_username:  studiozut
 linkedin_username: studiozut
-homepage_intro : > Posts about web development from a full stack developer
+homepage_intro : Posts about web development from a full stack developer
 
 # Build settings
 markdown: kramdown
