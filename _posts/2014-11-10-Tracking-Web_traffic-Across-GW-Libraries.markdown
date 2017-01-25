@@ -4,15 +4,20 @@ GW Libraries has nearly 20 web properties, all of which need to be tracked. We'r
 
 In addition to switching out our javascript with the new analytics.js tracking code, we created a separate "aggregate" account to collect traffic from all of our accounts. We then modified our older custom javascript snippet, using the new options available in the analytics.js code (shown in purple):
 
+<pre>
 ga('create', 'UA-12345678-1', 'auto');
 ga('create', 'UA-01234567-1', 'auto', {'name': 'aggregate'});  // This sets the "aggregate" Analytics account.
 ga('send', 'pageview');
 ga('aggregate.send', 'pageview'); // This sends the pageview to the "aggregate" Analytics account.
+</pre>
+
 Line 2 sets a second account (we named it "aggregate"), and the fourth line sends a set of the site's tracking data to the second account.
 
 <h4>Cross-Domain Tracking</h4>
 
 One of the goals is to see how visitors move between our web properties. Since all of our sites are subdomains of the same second level domain gwu.edu, Analytics doesn't require anything more than setting the second account in order to track traffic between properties:
+
+<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/cross-domain-flow.png?raw=true" alt="screenshot of Google Analytics user flow">
 
 screenshot: google analytics cross-domain flow
 
