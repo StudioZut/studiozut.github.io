@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to studiozut"
+title:  "Posts in Jekyll"
 date:   2016-10-28 11:58:21 -0400
 categories: jekyll update
 ---
