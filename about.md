@@ -7,7 +7,7 @@ permalink: /about/
 <h3>Getting Started</h3>
 
 <div style="float:left; max-width: 20%; min-width: 180px; padding: 0 1em 1em 0;">
-<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/assets/Aldridge_C_3_cropped_1000px.png?raw=true" alt="photo: Christian Aldridge" />
+<img src="assets/Aldridge_C_3_cropped_1000px.png" alt="photo: Christian Aldridge">
 </div>
 
 So I needed a web presence, my own little corner of the interwebs for my professional info, posts and general identity as a web developer. My other sites are about other things (like gaming! <a href="https://telrhin.com">telrhin.com</a>). 
