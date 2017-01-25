@@ -14,6 +14,8 @@ I'm a full stack developer working at George Washington University's newly forme
 
 I work in PHP, HTML, CSS, JS/jQuery, SQL, Ruby on Rails and the occasional Python/Django app.
 
+I have a sandbox module on Drupal.org https://www.drupal.org/sandbox/studiozut/2303677 and have contributed to Google's AMP HTML project https://github.com/ampproject/amphtml and the Sufia repository project https://github.com/projecthydra/sufia.
+
 <h4>About Jekyll</h4>
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
