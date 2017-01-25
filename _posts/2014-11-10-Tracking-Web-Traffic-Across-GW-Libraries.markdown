@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Tracking Web Traffic Across GW Libraries"
+date:   2014-11-10 11:58:21 -0400
+categories: web dev
+---
 <p style="font-syle: italic;">(originally posted on the Scholarly Technology Group blog at GW Libraries: <a href="http://library.gwu.edu/scholarly-technology-group/posts/tracking-web-traffic-across-gw-libraries">http://library.gwu.edu/scholarly-technology-group/posts/tracking-web-traffic-across-gw-libraries</a>)</p>
 
 GW Libraries has nearly 20 web properties, all of which need to be tracked. We're using Google Analytics, and we've configured it with an "aggregate" account to help us track user traffic across our sites as well as within them. We've recently moved to Google's new "Universal Analytics" (analytics.js), which required some changes to our setup (see my post from last year).
