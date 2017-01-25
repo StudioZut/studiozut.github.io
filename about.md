@@ -6,15 +6,15 @@ permalink: /about/
 
 <h3>Getting Started</h3>
 
+<div style="width: 20%; min-width: 180px; float: left; padding: 0 1em 1em 0;">
+<img style="width:100%;" src="/assets/Aldridge_C_3_cropped_1000px.png" alt="photo: Christian Aldridge">
+</div>
+
 So I needed a web presence, my own little corner of the interwebs for my professional info, posts and general identity as a web developer. My other sites are about other things (like gaming! <a href="https://telrhin.com">telrhin.com</a>). 
 
 I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a professional presence.
 
 <h3>Web Development</h3>
-
-<div style="width: 20%; min-width: 180px; float: left;">
-<img style="width:100%;" src="assets/Aldridge_C_3_cropped_1000px.png" alt="photo: Christian Aldridge">
-</div>
 
 I'm a full stack developer working at George Washington University's newly formed Libraries & Academic Innovation. I work with Drupal, Omeka, and a little Ruby on Rails, and I'm the technical lead for our content managed systems (like our main Drupal instance at https://library.gwu.edu).
 
