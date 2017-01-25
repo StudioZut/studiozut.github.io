@@ -46,7 +46,7 @@ ga(‘send’, ‘event’, ‘primary-navigation’, ‘/primary-nav/gelman-lib
 When added to the anchor tag looks like this:
 
 <pre>
-<a onMouseOver="ga(‘send’, ‘event’, ‘primary-navigation’, ‘/primary-nav/gelman-library/research-hover’, {'nonInteraction': 1});">Research</a>
+&lt;a onMouseOver="ga(‘send’, ‘event’, ‘primary-navigation’, ‘/primary-nav/gelman-library/research-hover’, {'nonInteraction': 1});"&gt;Research&lt;/a&gt;
 </pre>
 
 The 'hover' behavior is triggered by the onMouseOver event (vs. onClick). The last parameter {'nonInteraction': 1} sets it as a 'non-interaction' event.
