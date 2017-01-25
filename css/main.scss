@@ -35,11 +35,13 @@ $on-laptop:        800px;
 //     }
 // }
 
-// studiozut custom
+// studiozut custom.
+.rss-subscribe { font-size: .7rem; }
+
 @include .rss-subscribe { font-size: .8rem; }
 
 // Import partials from the `minima` theme.
 @import "minima";
 
-// import custom css
+// import custom css.
 @import "studiozut-custom.css";
