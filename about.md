@@ -10,12 +10,17 @@ So I needed a web presence, my own little corner of the interwebs for my profess
 
 I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a professional presence.
 
-<h3>A Web Developer by Trade</h3>
+<h3>Web Development</h3>
 I'm a full stack developer working at George Washington University's newly formed Libraries & Academic Innovation. I work with Drupal, Omeka, and a little Ruby on Rails, and I'm the technical lead for our content managed systems (like our main Drupal instance at https://library.gwu.edu).
 
 I work in PHP, HTML, CSS, JS/jQuery, SQL, Ruby on Rails and the occasional Python/Django app.
 
 I have a sandbox module on Drupal.org https://www.drupal.org/sandbox/studiozut/2303677 and have contributed to Google's AMP HTML project https://github.com/ampproject/amphtml and the Sufia repository project https://github.com/projecthydra/sufia.
+
+  <div style="margin: 0 2em 0">
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So yeah, my fav commit message from this project so far <a href="https://twitter.com/hashtag/webdev?src=hash">#webdev</a> <a href="https://t.co/dZ6WGkvREl">pic.twitter.com/dZ6WGkvREl</a></p>&mdash; Christian Aldridge (@studiozut) <a href="https://twitter.com/studiozut/status/819954114754936832">January 13, 2017</a></blockquote>
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
 
 <h3>About Jekyll</h3>
 
