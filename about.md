@@ -5,6 +5,11 @@ permalink: /about/
 ---
 
 <h4>Getting Started</h4>
+
+<div style="float:left; max-width: 20%; min-width: 180px; padding: 0 1em 1em 0;">
+<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/assets/Aldridge_C_3_cropped_1000px.png?raw=true" alt="photo: Christian Aldridge" />
+</div>
+
 So I needed a web presence, my own little corner of the interwebs for my professional info, posts and general identity as a web developer. My other sites are about other things (like gaming! <a href="telrhin.com">telrhin.com</a>). 
 
 I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a professional presence.
