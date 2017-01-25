@@ -2,7 +2,7 @@
 layout: post
 title:  "Tracking Web Traffic Across GW Libraries"
 date:   2014-11-10 11:58:21 -0400
-categories: web dev
+categories: jekyll update
 ---
 <p style="font-syle: italic;">(originally posted on the Scholarly Technology Group blog at GW Libraries: <a href="http://library.gwu.edu/scholarly-technology-group/posts/tracking-web-traffic-across-gw-libraries">http://library.gwu.edu/scholarly-technology-group/posts/tracking-web-traffic-across-gw-libraries</a>)</p>
 
