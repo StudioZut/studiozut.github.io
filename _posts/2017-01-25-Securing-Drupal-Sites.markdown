@@ -3,7 +3,7 @@ If you’re patching your Drupal installation regularly (core and module updates
 An important disclaimer: I’m not addressing the server environment (LAMP stack) in this post, which is critical to security. If you’re using a hosting service, be sure to check on their security policies and makes sure they’re updating your server. 
 
 
-<h3>Part 1: Secure Connecting</h3>
+<h3>Part 1: Secure You Connection</h3>
 
 Make sure you’re configured to pass login and form submissions over a secure connection. If you’re using a hosted service, check their options for adding a certificate to your site: on some services (like Dreamhost) it’s as simple as checking some boxes.
 
