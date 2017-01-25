@@ -28,6 +28,8 @@ Comment sections tend to be hit the most on the Drupal sites I’ve built, and w
 
 Configuring Honeypot:
 
+<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/Screen%20Shot%202017-01-25%20at%2010.53.42%20AM.png?raw=true" alt="screenshot of the admin settings for the Honeypot module">
+
 Once you install the module, you can adjust the settings from the configuration page:
 
 
