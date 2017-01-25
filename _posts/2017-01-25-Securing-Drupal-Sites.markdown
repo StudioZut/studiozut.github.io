@@ -28,7 +28,7 @@ Comment sections tend to be hit the most on the Drupal sites I’ve built, and w
 
 Once you install the module, you can adjust the settings from the configuration page:
 
-<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/Screen%20Shot%202017-01-25%20at%2010.53.42%20AM.png?raw=true" alt="screenshot of the admin settings for the Honeypot module" />
+<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/Screen%20Shot%202017-01-25%20at%2010.53.42%20AM.png?raw=true" alt="screenshot of the admin settings for the Honeypot module">
 
 I’d start with the default settings and then adjust from there if anything is getting through. I recommend starting with the time limit setting first, then tinkering with the element name if spam is still managing to get through. And remember to check the logs!
 

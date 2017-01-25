@@ -1,4 +1,4 @@
-<p style="font-syle: italic;">(originally posted on the Scholarly Technology Group blog at GW Libraries: <a href="">http://library.gwu.edu/scholarly-technology-group/posts/tracking-web-traffic-across-gw-libraries</a>)</p>
+<p style="font-syle: italic;">(originally posted on the Scholarly Technology Group blog at GW Libraries: <a href="http://library.gwu.edu/scholarly-technology-group/posts/tracking-web-traffic-across-gw-libraries">http://library.gwu.edu/scholarly-technology-group/posts/tracking-web-traffic-across-gw-libraries</a>)</p>
 
 GW Libraries has nearly 20 web properties, all of which need to be tracked. We're using Google Analytics, and we've configured it with an "aggregate" account to help us track user traffic across our sites as well as within them. We've recently moved to Google's new "Universal Analytics" (analytics.js), which required some changes to our setup (see my post from last year).
 
@@ -19,13 +19,13 @@ Line 2 sets a second account (we named it "aggregate"), and the fourth line send
 
 One of the goals is to see how visitors move between our web properties. Since all of our sites are subdomains of the same second level domain gwu.edu, Analytics doesn't require anything more than setting the second account in order to track traffic between properties:
 
-<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/cross-domain-flow.png?raw=true" alt="screenshot of Google Analytics user flow" />
+<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/cross-domain-flow.png?raw=true" alt="screenshot of Google Analytics user flow">
 
 screenshot: google analytics cross-domain flow
 
 If your sites have different domains, Google has excellent documentation to implement cross-domain tracking manually. 
 
-Event Tracking and "Non-Interaction" Events
+<h3>Event Tracking and "Non-Interaction" Events</h3>
 
 In addition to tracking page traffic, we're using "event tracking" code to tell us when visitors used certain tools or links. 
 
