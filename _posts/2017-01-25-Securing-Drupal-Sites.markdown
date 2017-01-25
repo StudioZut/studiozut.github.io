@@ -11,7 +11,9 @@ In a future post I’ll address adding certificates to your site in detail (conf
 
 If your site accepts both http and https requests (instead of routing all requests over https), I recommend the Secure Login module (<a href="https://www.drupal.org/project/securelogin">https://www.drupal.org/project/securelogin</a>). This will let you force login requests and form submissions over https. Why is this important? If you don’t use a secure connection for logins or forms, all the submitted information (including passwords) is sent using clear text (unencrypted plain text) and can be intercepted.
 
-These are the settings I tend to use, which include forcing forms of any kind to submit over a secure connection.
+These are the settings I tend to use, which include forcing forms of any kind to submit over a secure connection:
+
+<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/Screen%20Shot%202017-01-25%20at%2010.49.03%20AM.png?raw=true" alt="screenshot of the admin settings for the Secure Login module">
 
 Note: if you’re using the Drupal login block on a page and you’re using Secure Login, that page will load over https. By default new Drupal 7 installations include the login block on the home page.
 
