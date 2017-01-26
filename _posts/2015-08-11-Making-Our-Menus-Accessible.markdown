@@ -6,7 +6,9 @@ We use a ‘hover’ style menu that expands when you hover over the categories,
 
 More importantly it wasn’t ‘keyboard accessible’: it required a mouse/trackpad or touchscreen to operate, leaving users who rely on keyboard navigation in the dark.
 
-<img style="max-width: 100%;" src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/screenshot-gw-libraries-8-6-15-720px.png?raw=true" alt="screenshot of the GW Libraries site in wide view (desktop)" />
+<div style="margin: 0 auto 0; width: 720px; max-width: 100%;">
+<img src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/screenshot-gw-libraries-8-6-15-720px.png?raw=true" alt="screenshot of the GW Libraries site in wide view (desktop)" />
+</div>
 
 screenshot: GW Libraries in wide view (desktop)
 
