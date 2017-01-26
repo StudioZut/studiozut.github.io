@@ -25,7 +25,6 @@ linkedin_username: studiozut
 homepage_intro: > # this means to ignore newlines until "markdown:"
   <p>Christian is a web developer for the Scholarly Technology Group at the George Washington University. He’s a ‘full stack’ developer with a focus on lean UX, responsive design and usability.</p>
   <p>Recent presentations includes a session at edUI on the challenges of building an Hours tool for universities and a session on 'demystifying the web' at the Uncommon Alliance STEM Conference in DC.</p> 
-  <h3>Posts about web development from a full stack developer:</h3>
 # Build settings
 markdown: kramdown
 theme: minima
