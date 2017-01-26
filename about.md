@@ -10,19 +10,19 @@ permalink: /about/
 <img style="width:100%;" src="/assets/Aldridge_C_3_cropped_180px.png" alt="photo: Christian Aldridge">
 </div>
 
-I needed a web presence: my own little corner of the interwebs for my professional info, posts and general identity as a web developer. My other personal sites are about other things (like tabletop roleplaying games! <a href="https://telrhin.com">telrhin.com</a>). 
+Defining 'web presence': my own corner of the interwebs for professional info, posts and my general identity as a web developer. My other personal sites are about other things (like tabletop roleplaying games! <a href="https://telrhin.com">telrhin.com</a>). 
 
 I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a professional presence. My team runs a workshop on that!
 
 <h3>Web Development</h3>
 
-I'm a full stack developer working at George Washington University's newly formed Libraries & Academic Innovation. I work with Drupal, Omeka, and a little Ruby on Rails, and I'm the technical lead for our content managed systems (like our main Drupal instance at https://library.gwu.edu).
+I'm a full stack developer working at George Washington University's newly formed Libraries & Academic Innovation. I work with Drupal, Omeka, and a little Ruby on Rails, and I'm the technical lead for our content management systems (like our main Drupal instance at https://library.gwu.edu).
 
 I work in PHP, HTML, CSS, JS/jQuery, SQL, Ruby on Rails and the occasional Python/Django app.
 
 I have a sandbox module on Drupal.org https://www.drupal.org/sandbox/studiozut/2303677 and have contributed to Google's AMP HTML project https://github.com/ampproject/amphtml and the Sufia repository project https://github.com/projecthydra/sufia.
 
-  <div style="width: 500px; margin: 1em auto 1em;;">
+  <div style="width: 500px; margin: 1em auto 1em; max-width: 100%;">
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So yeah, my fav commit message from this project so far <a href="https://twitter.com/hashtag/webdev?src=hash">#webdev</a> <a href="https://t.co/dZ6WGkvREl">pic.twitter.com/dZ6WGkvREl</a></p>&mdash; Christian Aldridge (@studiozut) <a href="https://twitter.com/studiozut/status/819954114754936832">January 13, 2017</a></blockquote>
   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
