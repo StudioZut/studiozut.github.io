@@ -20,7 +20,7 @@ But it's not responsive, and we had to customize the css and add some javascript
 
 <h3>Designing for Mobile</h3>
 
-<img style="float: right;" src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/screenshot-gw-libraries-8-6-15-narrow-280px.png?raw=true" alt="screenshot: GW Libraries site in narrow view (handheld)" />
+<img style="float: right; padding: 0 0 1em 1em;" src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/screenshot-gw-libraries-8-6-15-narrow-280px.png?raw=true" alt="screenshot: GW Libraries site in narrow view (handheld)" />
 
 Our menu collapses into buttons on the smallest screens (like phones) and each button becomes a link to the main categories. The new javascript-based code from Adobe dynamically inserts css classes, which we can override in our style sheet as needed (using media queries to target smaller screens).
 
