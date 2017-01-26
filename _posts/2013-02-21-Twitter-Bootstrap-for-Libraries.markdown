@@ -1,7 +1,7 @@
 <p style="font-style: italic;">(originally posted on the Scholarly Technology Group blog at GW Libraries: <a href="https://library.gwu.edu/scholarly-technology-group/posts/twitter-bootstrap-libraries">https://library.gwu.edu/scholarly-technology-group/posts/twitter-bootstrap-libraries</a>)</p>
 
 <div style="float: right;">
-<img alt="screenshot: Libraries bootswatch design" src="Screen Shot 2013-02-21 at 11.57.50 AM.png">
+<img alt="screenshot: Libraries bootswatch design" src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/Screen Shot 2013-02-21 at 11.57.50 AM.png">
 </div>
 
 For those of you working with (or interested in) Twitter's Bootstrap tools, we've built a "Bootswatch" with the Libraries' lite header.
