@@ -38,5 +38,7 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
+// Import custom css file.
+@import "zut-custom.css";
 // Import partials from 'custom' site changes.
 @import "custom/zut-custom";
