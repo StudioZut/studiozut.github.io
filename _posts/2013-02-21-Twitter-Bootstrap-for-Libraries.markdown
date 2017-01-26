@@ -1,6 +1,6 @@
 <p style="font-style: italic;">(originally posted on the Scholarly Technology Group blog at GW Libraries: <a href="https://library.gwu.edu/scholarly-technology-group/posts/twitter-bootstrap-libraries">https://library.gwu.edu/scholarly-technology-group/posts/twitter-bootstrap-libraries</a>)</p>
 
-<div style="float: right;">
+<div style="margin: 0 auto 0; width: 740px; max-width: 100%;">
 <img alt="screenshot: Libraries bootswatch design" src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/Screen%20Shot%202013-02-21%20at%2011.57.50%20AM.png?raw=true">
 </div>
 
