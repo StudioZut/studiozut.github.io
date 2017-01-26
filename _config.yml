@@ -23,10 +23,9 @@ twitter_username: studiozut
 github_username:  studiozut
 linkedin_username: studiozut
 homepage_intro: > # this means to ignore newlines until "markdown:"
-  Christian is a web developer for the Scholarly Technology Group at the George Washington University. He’s a ‘full stack’ developer with a focus on lean UX, responsive design and usability. 
-  Christian presents regularly within George Washington University, showcases his team’s work at lightning talks and regional conferences and runs technology workshops for his job as well as events like the Uncommon Alliance STEM Conference in DC. 
-  He has a background in teaching and theatre in addition to 10 years in web development. He’s a Drupal member and member of the User Experience Professionals Association (UXPA-DC). 
-  Posts about web development from a full stack developer
+  <p>Christian is a web developer for the Scholarly Technology Group at the George Washington University. He’s a ‘full stack’ developer with a focus on lean UX, responsive design and usability.</p>
+  <p>Recent presentations includes a session at edUI on the challenges of building an Hours tool for universities and a session on 'demystifying the web' at the Uncommon Alliance STEM Conference in DC.</p> 
+  <h3>Posts about web development from a full stack developer:</h3>
 # Build settings
 markdown: kramdown
 theme: minima
