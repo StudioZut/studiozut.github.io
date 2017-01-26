@@ -10,7 +10,7 @@ permalink: /about/
 <img style="width:100%;" src="/assets/Aldridge_C_3_cropped_180px.png" alt="photo: Christian Aldridge">
 </div>
 
-Defining 'web presence': my own corner of the interwebs for professional info, posts and my general identity as a web developer. My other personal sites are about other things (like tabletop roleplaying games! <a href="https://telrhin.com">telrhin.com</a>). 
+The term 'web presence' gets thrown around a lot, so what does it really mean? In my case it's a little corner of the interwebs for my professional info, a few posts and my general identity as a web developer. My other personal sites (web presencae?) but they have a different focus: things like tabletop roleplaying games! <a href="https://telrhin.com">telrhin.com</a>.  
 
 I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a professional presence. My team runs a workshop on that!
 
