@@ -35,12 +35,8 @@ $on-laptop:        800px;
 //     }
 // }
 
-h2 { color: blue !important; }
-
 // Import partials from the `minima` theme.
 @import "minima";
 
-// Import custom css file.
-@import url('zut-custom.css');
-// Import partials from 'custom' site changes.
-@import "custom/zut-custom";
+// Import custom site partial.
+@import 'custom';
