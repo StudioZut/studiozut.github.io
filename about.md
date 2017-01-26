@@ -7,7 +7,7 @@ permalink: /about/
 <h3>Getting Started</h3>
 
 <div style="width: 20%; min-width: 180px; float: right; padding: 0 0 1em 1em;">
-<img style="width:100%;" src="/assets/Aldridge_C_3_cropped_1000px.png" alt="photo: Christian Aldridge">
+<img style="width:100%;" src="/assets/Aldridge_C_3_cropped_180px.png" alt="photo: Christian Aldridge">
 </div>
 
 So I needed a web presence, my own little corner of the interwebs for my professional info, posts and general identity as a web developer. My other personal sitesi are about other things (like gaming! <a href="https://telrhin.com">telrhin.com</a>). 
