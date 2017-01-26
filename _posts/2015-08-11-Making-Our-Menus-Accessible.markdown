@@ -22,7 +22,7 @@ But it's not responsive, and we had to customize the css and add some javascript
 
 <h3>Designing for Mobile</h3>
 
-<div style="float: right; padding: 0 0 1em 1em; width: calc(280px + 1em); max-width: calc(50% - 1em;">
+<div style="float: right; padding: 0 0 1em 1em; width: calc(280px + 1em); max-width: calc(50% - 1em);">
 <img src="https://github.com/StudioZut/studiozut.github.io/blob/master/_posts/screenshot-gw-libraries-8-6-15-narrow-280px.png?raw=true" alt="screenshot: GW Libraries site in narrow view (handheld)" />
 </div>
 
