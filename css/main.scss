@@ -41,6 +41,6 @@ h2 { color: blue !important; }
 @import "minima";
 
 // Import custom css file.
-@import /css/zut-custom.css;
+@import url('zut-custom.css');
 // Import partials from 'custom' site changes.
 @import "custom/zut-custom";
