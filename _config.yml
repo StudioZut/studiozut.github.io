@@ -24,7 +24,7 @@ github_username:  studiozut
 linkedin_username: studiozut
 homepage_intro: > # this means to ignore newlines until "markdown:"
   <p>Christian is a web developer for the Scholarly Technology Group at the George Washington University. He’s a ‘full stack’ developer with a focus on lean UX, responsive design and usability.</p>
-  <p>Recent presentations include a session at edUI on the challenges of building an Hours tool for universities and a session on 'demystifying the web' at the Uncommon Alliance STEM Conference in DC.</p> 
+  <p>Recent presentations include a session at the 2016 edUI Conference on the challenges of building an API based Hours tool for universities and a session on 'demystifying the web' at the Uncommon Alliance STEM Conference in DC.</p> 
 # Build settings
 markdown: kramdown
 theme: minima
