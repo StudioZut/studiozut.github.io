@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: More About Me 
 permalink: /about/
 ---
 
@@ -8,13 +8,13 @@ permalink: /about/
 <img style="width:100%;" src="/assets/Aldridge_C_3_cropped_180px.png" alt="photo: Christian Aldridge">
 </div>
 
-The term 'web presence' gets thrown around a lot, so what does it really mean? In my case it's a little corner of the interwebs for my professional info, a few posts and my general identity as a web developer. My other personal sites (web presencae?) have a different focus: things like tabletop roleplaying games! <a href="https://telrhin.com">telrhin.com</a>.  
+The term <span style="font-style:italic;">web presence</span> gets thrown around a lot, so what does it really mean? In my case it's a little corner of the "interwebs" for my professional info, a few posts and my general identity as a web developer. My other personal sites ("web presencae?") have a different focus: things like tabletop roleplaying games! <a href="https://telrhin.com">telrhin.com</a>.  
 
-I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a WCMS (web content management system). My team runs a workshop on that!
+I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a WCMS (web content management system). My team runs a workshop on this!
 
 <h3>Web Development</h3>
 
-I'm a full stack developer working at George Washington University's newly formed Libraries & Academic Innovation. I work with Drupal, Omeka, and a little Ruby on Rails, and I'm the technical lead for our content management systems (like our main Drupal instance at https://library.gwu.edu).
+I'm a full stack developer working at George Washington University's Libraries & Academic Innovation. I work with Drupal, Omeka, and a little Ruby on Rails, and I'm the technical lead for our content management systems (like our main Drupal instance at https://library.gwu.edu).
 
 I work in PHP, HTML, CSS, JS/jQuery, SQL, Ruby on Rails and the occasional Python/Django app.
 
@@ -31,7 +31,7 @@ You can see my implementation of Jekyll on github: <a href="https://github.com/S
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
+You can find the source code for the new Jekyll theme at:
 {% include icon-github.html username="jekyll" %} /
 [minima](https://github.com/jekyll/minima)
 
