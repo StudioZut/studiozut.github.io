@@ -10,7 +10,7 @@ permalink: /about/
 
 The term 'web presence' gets thrown around a lot, so what does it really mean? In my case it's a little corner of the interwebs for my professional info, a few posts and my general identity as a web developer. My other personal sites (web presencae?) have a different focus: things like tabletop roleplaying games! <a href="https://telrhin.com">telrhin.com</a>.  
 
-I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a professional presence. My team runs a workshop on that!
+I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a WCMS (web content management system). My team runs a workshop on that!
 
 <h3>Web Development</h3>
 
