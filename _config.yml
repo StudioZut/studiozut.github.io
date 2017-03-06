@@ -24,7 +24,7 @@ github_username:  studiozut
 linkedin_username: studiozut
 homepage_intro: > # this means to ignore newlines until "markdown:"
   <p>I'm a web developer for the Scholarly Technology Group at the George Washington University. I'm a full stack developer with a focus on lean UX, responsive design and usability.</p>
-  <p>Recent presentations include a session at the 2016 edUI Conference on the challenges of building an API based Hours tool for universities and a session on 'demystifying the web' at the Uncommon Alliance STEM Conference in DC.</p> 
+  <p>Recent presentations include a session at the 2016 edUI Conference on the challenges of building an API based Hours tool for universities and sessions on 'demystifying the web' at the GDS STEM/STEAM Conference for high school students in DC.</p> 
   <p>There's a little more on the "<a href="/about">about me</a>" page as well.</p>
   <p>Looking for the STEM Conference <a href='/basics.html' target='_blank'>workshop files?</a></p>
 # Build settings
