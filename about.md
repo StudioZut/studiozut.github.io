@@ -18,7 +18,7 @@ I'm a full stack developer working at George Washington University's Libraries &
 
 I work in PHP, HTML, CSS, JS/jQuery, SQL, Ruby on Rails and the occasional Python/Django app.
 
-I have a sandbox module on Drupal.org https://www.drupal.org/sandbox/studiozut/2303677 and have contributed to Google's AMP HTML project https://github.com/ampproject/amphtml and the Sufia repository project https://github.com/projecthydra/sufia.
+I have a sandbox module on Drupal.org https://www.drupal.org/sandbox/studiozut/2303677 and have contributed to the Sufia repository project (part of the Hydra Project https://projecthydra.org) https://github.com/projecthydra/sufia. 
 
   <div style="width: 500px; margin: 1em auto 1em; max-width: 100%;">
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So yeah, my fav commit message from this project so far <a href="https://twitter.com/hashtag/webdev?src=hash">#webdev</a> <a href="https://t.co/dZ6WGkvREl">pic.twitter.com/dZ6WGkvREl</a></p>&mdash; Christian Aldridge (@studiozut) <a href="https://twitter.com/studiozut/status/819954114754936832">January 13, 2017</a></blockquote>
