@@ -14,7 +14,7 @@ I built this using Jekyll and github pages, a simple and low maintenance way to 
 
 <h3>Web Development</h3>
 
-I'm a full stack developer working at George Washington University's Libraries & Academic Innovation. I work with Drupal, Omeka, and a little Ruby on Rails, and I'm the technical lead for our content management systems (like our main Drupal instance at https://library.gwu.edu).
+I'm a full stack Drupal developer for the World Resources Institute in Washington DC. Before that I worked for the Scholarly Technology Group at GW Libraries in Drupal, Omeka, and a little Ruby on Rails, and I was the technical lead for their content management systems (like this https://library.gwu.edu).
 
 I work in PHP, HTML, CSS, JS/jQuery, SQL, Ruby on Rails and the occasional Python/Django app.
 
