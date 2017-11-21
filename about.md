@@ -8,7 +8,7 @@ permalink: /about/
 <img style="width:100%;" src="/assets/Aldridge_C_3_cropped_180px.png" alt="photo: Christian Aldridge">
 </div>
 
-The term <span style="font-style:italic;">web presence</span> gets thrown around a lot, so what does it really mean? In my case it's a little corner of the "interwebs" for my professional info, a few posts and my general identity as a web developer. My other personal sites ("web presencae?") have a different focus: things like tabletop roleplaying games! <a href="https://telrhin.com">telrhin.com</a>.  
+The term <span style="font-style:italic;">web presence</span> gets thrown around a lot, so what does it really mean? In my case it's a little corner of the "interwebs" for my professional info, a few posts and my general identity as a web developer. My other personal sites ("web presencae?") have a different focus: things like dice and paper roleplaying games! <a href="https://www.telrhin.com">telrhin.com</a>.  
 
 I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a WCMS (web content management system). My team runs a workshop on this!
 
