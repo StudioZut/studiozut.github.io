@@ -90,8 +90,9 @@ document.getElementById("submitButton").addEventListener("click", advancedFuncti
 
 <h2>Epilogue</h2>
 <p>This is all using simple javascript. It's meant to illustrate the logic behind functions and how to pass values to them using variables. There are quicker and better ways to do most of this, like using jquery :). Also, for our form, what if the user hits the "return/enter" key and not the button? There's a listener for that too:</p> 
+
 ```
-// add a listener for anyone who hits the "return/enter" key instead of the button
+  // add a listener for anyone who hits the "return/enter" key instead of the button
 document.getElementById("formValue").addEventListener('keypress', function (e) {
     if (e.key === 'Enter') {
       advancedFunction();
