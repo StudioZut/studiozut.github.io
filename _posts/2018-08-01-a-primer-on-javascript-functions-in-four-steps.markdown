@@ -86,13 +86,14 @@ function advancedFunction() {
 document.getElementById("submitButton").addEventListener("click", advancedFunction);
 ```
 
-<p>Now we're getting somewhere. We have an interactive page that outputs text dynamically. It uses variables and passes values to functions. Hopefully this gives you a better understanding of functions and variables. Now you can write your own!<p>
+<p>Now we're getting somewhere. We have an interactive page that outputs text dynamically. It uses variables and passes values to functions. Hopefully this gives you a better understanding of functions and variables.<p>
 
 <p><a href="https://codepen.io/studiozut/pen/mjpKLZ">Check out the code in Codepen</a></p>
 
 <h2>Additional Thoughts</h2>
 <p>This is all using simple javascript. It's meant to illustrate the logic behind functions and how to pass values to them using variables. There are quicker and better ways to do most of this, like using jquery :). Also, for our form, what if the user hits the "return/enter" key and not the button? There's a listener for that too:
 </p> 
+
 
 ```
 // add a listener for anyone who hits the "return/enter" key instead of the button
@@ -103,3 +104,5 @@ document.getElementById("formValue").addEventListener('keypress', function (e) {
 });
 
 ```
+
+
