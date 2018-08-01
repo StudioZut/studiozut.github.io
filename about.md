@@ -18,7 +18,7 @@ I'm a full stack Drupal developer for the World Resources Institute in Washingto
 
 I work in PHP, HTML, CSS, JS/jQuery, SQL, Ruby on Rails and the occasional Python/Django app.
 
-I've even made a (very very small) contribution to Drupal Core:
+I've even made a (very very small) contribution to Drupal core:
 
   <div style="width: 354px; margin: 1em auto 1em; max-width: 100%;"><img src="../assets/contrib.jpg" alt="screenshot of my contribution status on drupal.org" /></div>
 
