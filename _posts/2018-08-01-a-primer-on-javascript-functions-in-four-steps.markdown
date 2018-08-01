@@ -93,7 +93,7 @@ function advancedFunction() {
 document.getElementById("submitButton").addEventListener("click", advancedFunction);
 ```
 
-<p>Now we're getting somewhere. We have an interactive page that outputs text dynamically. It uses variables and passes values to functions. It has a nested function, and even uses and if/else condition.</p>
+<p>Now we're getting somewhere. We have an interactive page that outputs text dynamically. It uses variables and passes values to functions. It has a nested function, and even uses an if/else condition.</p>
 
 <p>Hopefully this gives you a better understanding of functions and variables. This is just the beginning of what you can do with javascript. Seeing it written out (unlike the "hidden" functionality of jquery and other libraries) exposes the scripting logic and should help you better understand what's happening when your javascript runs.</p>
 
