@@ -49,12 +49,13 @@ function evenLessBasicFunction() {
   // let's define two variables
   var var1 = 100;
   var var2 = 400;
-  // now let's create a quick function that takes two values and adds them together
+  // now let's create a quick function that takes two values and adds them together.
   function addingFunction(value1,value2) {
-    return var1 + var2;
+    return value1 + value2;
   }
   // let's output it to the page
   document.getElementById("evenLessBasicVar").innerHTML = addingFunction(var1,var2);
+  // note that we're making this harder than it has to be: we don't have to define our values in var1 and var2, we could just pass them directly to the function when we call it like this: "addingFunction(100,400)" 
 }
 ```
 <p>Now that we've built these three functions, you should see how values can be passed around as variables.</p>
