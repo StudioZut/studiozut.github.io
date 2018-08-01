@@ -86,7 +86,7 @@ function advancedFunction() {
 document.getElementById("submitButton").addEventListener("click", advancedFunction);
 ```
 
-<p>Now we're getting somewhere. We have an interactive page that outputs text dynamically. It uses variables and passes values to functions. Hopefully this gives you a better understanding of functions and variables.<p>
+<p>Now we're getting somewhere. We have an interactive page that outputs text dynamically. It uses variables and passes values to functions. Hopefully this gives you a better understanding of functions and variables.</p>
 
 <p><a href="https://codepen.io/studiozut/pen/mjpKLZ">Check out the code in Codepen</a></p>
 
@@ -102,7 +102,6 @@ document.getElementById("formValue").addEventListener('keypress', function (e) {
     advancedFunction();
   }
 });
-
 ```
 
 <p>&nbsp;</p>
