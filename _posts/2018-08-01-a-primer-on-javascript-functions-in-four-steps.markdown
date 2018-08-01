@@ -73,7 +73,7 @@ function evenLessBasicFunction() {
 
 ```
 function advancedFunction() {
-  // check ot see if there's a value for the form field (which will be blank when the page loads). If not set the value to "empty"
+  // check if there's a value for the form field (which will be blank when the page loads). If not set the value to "empty"
   if ( document.getElementById("formValue").value ) {
     // grab the value from the form, but we'll need to set a listener (below) since it changes when you click the button
     var theVar = document.getElementById("formValue").value;
@@ -93,7 +93,9 @@ function advancedFunction() {
 document.getElementById("submitButton").addEventListener("click", advancedFunction);
 ```
 
-<p>Now we're getting somewhere. We have an interactive page that outputs text dynamically. It uses variables and passes values to functions. Hopefully this gives you a better understanding of functions and variables.</p>
+<p>Now we're getting somewhere. We have an interactive page that outputs text dynamically. It uses variables and passes values to functions. It has a nested function, and even uses and if/else condition.</p>
+
+<p>Hopefully this gives you a better understanding of functions and variables. This is just the beginning of what you can do with javascript. Seeing it written out (unlike the "hidden" functionality of jquery and other libraries) exposes the scripting logic and should help you better understand what's happening when your javascript runs.</p>
 
 <p><a href="https://codepen.io/studiozut/pen/mjpKLZ">Check out the code in Codepen</a></p>
 
