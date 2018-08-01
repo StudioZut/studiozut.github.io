@@ -27,6 +27,12 @@ function basicFunction() {
 ```
   <p>The only reason I defined the text as a variable ("theVar") was to get us thinking in terms of variables.</p>
 
+  <p>Note that to run these functions you'll need to call them. One way to do this is with the onload attribute:</p>
+
+```
+<body onload="basicFunction(), lessBasicFunction('text from a variable'), evenLessBasicFunction(), advancedFunction()">
+``` 
+
   <h2>Passing a Value to the Function</h2>	  
   <p>And now the same idea, but we're passing a value to the function. To do this, when we call the function we pass the value to it like this: lessBasicFunction('text from a variable'):</p>
 
