@@ -20,7 +20,7 @@ I work in PHP, HTML, CSS, JS/jQuery, SQL, Ruby on Rails and the occasional Pytho
 
 I've even made a (very very small) contribution to Drupal Core:
 
-  <div><img style="width: 354px; margin: 1em auto 1em; max-width: 100%;" src="../assets/contrib.jpg" alt="screenshot of my contribution status on drupal.org" /></div>
+  <div style="width: 354px; margin: 1em auto 1em; max-width: 100%;"><img src="../assets/contrib.jpg" alt="screenshot of my contribution status on drupal.org" /></div>
 
 I have a sandbox module on Drupal.org https://www.drupal.org/sandbox/studiozut/2303677 and have contributed to the Sufia repository project (part of the Hydra Project https://projecthydra.org) https://github.com/projecthydra/sufia. 
 
