@@ -61,7 +61,7 @@ function evenLessBasicFunction() {
   <button id="submitButton">enter</button>
 ```
 
-<p>And this is our function. It grabs the value of the field and outputs it to the page (to an HTML element with an ID of "advancedVar".</p>
+<p>And this is our function. It grabs the value of the field and outputs it to the page (to an HTML element with an ID of "advancedVar". It also has conditional logic: there's an if/else statement that checks to see if the value of the input field has been defined and assigns it a value ("empty") if not.</p>
 
 
 ```
@@ -79,7 +79,7 @@ function advancedFunction() {
 }
 ```
 
-<p>But we'll need a "listener". The form field will be empty on page load, but if we set a listener it will update the value when someone inputs something and clicks the button:</p>
+<p>But we'll need a "listener". The form field will be empty on page load, which is why we used the if/else condition to check. If we set a listener it will update the value when someone inputs something and clicks the button:</p>
 
 ```
 // set a listener for the "enter" button
