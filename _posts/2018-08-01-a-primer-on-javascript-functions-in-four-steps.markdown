@@ -53,7 +53,7 @@ function evenLessBasicFunction() {
 ```
 <p>Now that we've built these three functions, you should see how values can be passed around as variables.</p>
 
-<h2>Let's Make it Do Somthing</h2>
+<h2>Let's Make it Do Something</h2>
 <p>Let's add a form so the user can enter something and we can then use that to pass it to the function:</p>
 
 ```
