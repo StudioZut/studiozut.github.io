@@ -8,17 +8,19 @@ permalink: /about/
 <img style="width:100%;" src="/assets/Aldridge_C_3_cropped_180px.png" alt="photo: Christian Aldridge">
 </div>
 
-The term <span style="font-style:italic;">web presence</span> gets thrown around a lot, so what does it really mean? In my case it's a little corner of the "interwebs" for my professional info, a few posts and my general identity as a web developer. My other personal sites ("web presencae?") have a different focus: things like dice and paper roleplaying games! You can see some of that madness here: <a href="https://www.telrhin.com">telrhin.com</a>.  
+The term <span style="font-style:italic;">web presence</span> gets thrown around a lot, so what does it really mean? Is it a digital property? A website? Your Twitter feed? It's any of these things, and in this case it's a little corner of the interwebs for my professional info, a few posts and my general identity as a web developer. My other personal sites have a different focus: things like dice and paper roleplaying games! You can see some of that madness here: <a href="https://www.telrhin.com">telrhin.com</a>.  
 
-I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a WCMS (web content management system). My team runs a workshop on this!
+I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a WCMS (web content management system). My old team at GW Libraries runs a workshop on this!
 
 <h3>Web Development</h3>
 
-I'm a full stack Drupal developer for the World Resources Institute in Washington DC. Before that I worked for the Scholarly Technology Group at GW Libraries in Drupal, Omeka, and a little Ruby on Rails, and I was the technical lead for their content management systems (like this https://library.gwu.edu).
+I'm a full stack Drupal developer for the World Resources Institute in Washington DC. I'm the technical lead and web architect for our core institutional sites. Before that I worked for the Scholarly Technology Group at GW Libraries in Drupal, Omeka, and a little Ruby on Rails, and I was the technical lead for their content management systems (like this https://library.gwu.edu).
 
-I work in PHP, HTML, CSS, JS/jQuery, SQL, Ruby on Rails and the occasional Python/Django app.
+My first stabs at web development were in the late 90s when I was the Director of Hubris Games.
 
-I've even made a (very very small) contribution to Drupal core:
+I've worked in PHP, HTML, CSS/SASS, JS/jQuery, SQL, Ruby on Rails and the occasional Python/Django app. Mostly I work with Drupal.
+
+I've even made a (very small) contribution to Drupal core:
 
   <div style="width: 354px; margin: 1em auto 1em; max-width: 100%;"><img src="../assets/contrib.jpg" alt="screenshot of my contribution status on drupal.org" /></div>
 
