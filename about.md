@@ -14,7 +14,7 @@ His previous work was at George Washington University’s Libraries and Academic
 
 He attended Carnegie-Mellon University's School of Drama, NYU Tisch School for the Arts, and Sarah Lawrence College. He spent parts of his childhood in Europe and Southeast Asia, and he’s lived in Memphis, New York, San Francisco, Columbus, and the District of Columbia.
 
-He's a Drupal Association member and has been attending DrupalCons since Denver in 2012.
+He's a Drupal Association member and has been at every DrupalCon since Denver 2012.
 
 Christian is married with three cats. 
 
