@@ -8,7 +8,7 @@ permalink: /about/
 <img style="width:100%;" src="/assets/Aldridge_C_3_cropped_180px.png" alt="photo: Christian Aldridge">
 </div>
 
-Christian is the Senior Web Developer and Architect for Communications at World Resources Institute. His work includes development, architecture and strategy for WRI’s global web presence.
+Christian is the Senior Web Developer and Architect for Communications at World Resources Institute. His work includes development, architecture, and technical strategy for WRI’s global web presence.
 
 His previous work was at George Washington University’s Libraries and Academic Innovation where he developed and managed websites as part of the Scholarly Technology team. Prior to that he was the web manager for the Harvey Goldberg Center for Excellence in Teaching at The Ohio State University, and the Artistic Director of Hubris Games.
 
