@@ -27,7 +27,7 @@ homepage_intro: > # this means to ignore newlines until "markdown:"
   architecture and strategy as well as managing our development workflow and dev ops. My site development work focuses on lean UX, 
   responsive design, and usability.</p>
   <p>Recent presentations include a session at the 2016 edUI Conference on the challenges of building an API-based 'hours of operation' tool 
-  for universities, and sessions on 'demystifying the web' at the Georgetown Day School STEM/STEAM Conference.</p> 
+  for universities, and sessions on *Demystifying the Web* at the Georgetown Day School STEM/STEAM Conference.</p> 
   <p>There's a little more on the "<a href="/about">about me</a>" page as well.</p>
   <!--<p>Looking for the STEM Conference <a href='/basics.html' target='_blank'>workshop files?</a></p>-->
 # Build settings
