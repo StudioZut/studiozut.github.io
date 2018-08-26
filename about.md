@@ -10,7 +10,7 @@ permalink: /about/
 
 Christian is the Senior Web Developer and Architect for Communications at World Resources Institute. His work includes development, architecture and strategy for WRI’s global web presence.
 
-His previous work was at George Washington University’s Libraries and Academic Innovation where he developed and managed websites as part of the Scholarly Technology team. Prior to that he worked at the Harvey Goldberg Center for Excellence in Teaching at The Ohio State University.
+His previous work was at George Washington University’s Libraries and Academic Innovation where he developed and managed websites as part of the Scholarly Technology team. Prior to that he was the web manager for the Harvey Goldberg Center for Excellence in Teaching at The Ohio State University, and the Artistic Director of Hubris Games.
 
 He attended Carnegie-Mellon University's School of Drama, NYU Tisch School for the Arts, and Sarah Lawrence College. He spent parts of his childhood in Europe and Southeast Asia, and he’s lived in Memphis, New York, San Francisco, Columbus, and the District of Columbia.
 
