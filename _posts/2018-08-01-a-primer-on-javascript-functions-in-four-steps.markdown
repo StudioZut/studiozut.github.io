@@ -7,6 +7,7 @@ categories: jekyll update
 
  <h1>A Primer on Javascript Functions in Four Steps</h1>
   <p><a href="https://codepen.io/studiozut/pen/mjpKLZ">Check out the code in Codepen</a></p>
+  <p>As a developer who works mainly in server-side languages like PHP, my interest in javascript has always been more on passing variables to functions rather than implementing accordions or slideshows. This primer demonstrates how to use javascript functions with variables in what is hopefully a short but effective set of four examples.</p>
   <p>We'll start with a simple function that inserts some text into the page. The function looks like this:</p>
 
 ```
