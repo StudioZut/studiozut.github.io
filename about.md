@@ -8,9 +8,15 @@ permalink: /about/
 <img style="width:100%;" src="/assets/Aldridge_C_3_cropped_180px.png" alt="photo: Christian Aldridge">
 </div>
 
-The term <span style="font-style:italic;">web presence</span> gets thrown around a lot, so what does it really mean? Is it a digital property? A website? Your Twitter feed? It's any of these things, and in this case it's a little corner of the interwebs for my professional info, a few posts and my general identity as a web developer. My other personal sites have a different focus: things like dice and paper roleplaying games! You can see some of that madness here: <a href="https://www.telrhin.com">telrhin.com</a>.  
+Christian is the Senior Web Developer and Architect for Communications at World Resources Institute. His work includes development, architecture and strategy for WRI’s global web presence.
 
-I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a WCMS (web content management system). My old team at GW Libraries runs a workshop on this!
+His previous work was at George Washington University’s Libraries and Academic Innovation where he developed and managed websites as part of the Scholarly Technology team. Prior to that he worked at the Harvey Goldberg Center for Excellence in Teaching at The Ohio State University.
+
+He attended Carnegie-Mellon University's School of Drama, NYU Tisch School for the Arts, and Sarah Lawrence College. He spent parts of his childhood in France and Thailand, and he’s lived in Memphis, New York, San Francisco, Columbus and DC.
+
+He's a Drupal Association member and has been attending DrupalCons since Denver in 2012.
+
+Christian is married with three cats. 
 
 <h3>Web Development</h3>
 
@@ -32,6 +38,8 @@ I have a sandbox module on Drupal.org https://www.drupal.org/sandbox/studiozut/2
   </div>
 
 <h3>About Jekyll</h3>
+
+I built this using Jekyll and github pages, a simple and low maintenance way to build and maintain a content management system. My old team at GW Libraries runs a workshop on this!
 
 You can see my implementation of Jekyll on github: <a href="https://github.com/StudioZut/studiozut.github.io">https://github.com/StudioZut/studiozut.github.io</a>
 
